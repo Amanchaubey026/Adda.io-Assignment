@@ -4,5 +4,5 @@ The code defines a class for managing facility bookings. It checks availability,
 
 ## Run Code 
 ```
-node bookingfacility
+node bookingfacility.js
 ```
